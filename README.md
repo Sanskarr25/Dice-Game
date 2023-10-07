@@ -19,3 +19,5 @@ HTML, CSS and JavaScript
 2. Ensure you have dice images (dice-1.png to dice-6.png) for visual representation.
 3. Customize the game's appearance and rules to fit your project if needed.
 
+
+Thankyou and Enjoy the game...
